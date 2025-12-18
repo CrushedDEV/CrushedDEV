@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oihan
 ===================================================================================================================================
 
-Web developer
--------------
+Web Developer
+-------------------------------------
 
-I have been developing my skills in programming for the past year, starting with HTML and CSS, and expanding into backend development. I'm now also exploring the world of game development.
+I have been developing my skills in programming for the past year, starting with HTML and CSS, and expanding into backend development. I'm now also exploring the world of game development.  
+
+Beyond coding, I'm a passionate musician and DJ, so many of my projects often include solutions and ideas inspired by the world of music.
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [oihangomezaz@gmail.com](mailto:oihangomezaz@gmail.com)
