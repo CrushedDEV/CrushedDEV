@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I have been learning programming for 1 year, I started with HTML, CSS but I also like the backend world.
+I have been developing my skills in programming for the past year, starting with HTML and CSS, and expanding into backend development. I'm now also exploring the world of game development.
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [oihangomezaz@gmail.com](mailto:oihangomezaz@gmail.com)
