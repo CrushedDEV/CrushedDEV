@@ -14,7 +14,8 @@
 * 🌍 `Based in`: **Spain**  
 * 🌱 `Currently learning`: **Unity & Game Development**  
 * ❤️ `I love`: **Music & DJing**  
-* 💻 `Favorite languages`: **JavaScript, PHP, Java**  
+* 💻 `Favorite languages`: **JavaScript, PHP, Java**
+  
 }
 
 <br/>
