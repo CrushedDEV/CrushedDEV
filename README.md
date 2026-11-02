@@ -1,55 +1,91 @@
-<h2 align="center">👋 Hi there</h2>
+<div align="center">
+
+<a href="https://github.com/CrushedDEV/nexo-releases"><img src="assets/banner.svg" alt="Hi, I'm Oihan Gómez — developer from Spain and creator of Nexo" width="100%"></a>
+
+<br>
+
+[![X](https://img.shields.io/badge/@crusheed__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/crusheed_)
+[![Nexo](https://img.shields.io/badge/Try_Nexo-free-c4552d?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/CrushedDEV/nexo-releases/releases/latest)
+[![DropMixr](https://img.shields.io/badge/dropmixr.es-7c4ddb?style=for-the-badge&logo=soundcloud&logoColor=white)](https://dropmixr.es)
+[![BeOut](https://img.shields.io/badge/beout.es-2f6fe0?style=for-the-badge&logo=vrchat&logoColor=white)](https://beout.es)
+
+</div>
+
+<br>
+
+## <img src="assets/nexi.png" width="30" align="top" alt=""> Featured: Nexo
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+**Claude and ChatGPT in one desktop app.** Your subscriptions and API accounts share memory,
+projects and conversations, so you can switch AI mid-conversation without losing context.
+
+- 🤝 **Two AIs, one brain**: compare answers side by side or ask the other AI for a second opinion
+- 🤖 **Agents that work on their own**: loop mode and a parallel task board on isolated git branches
+- 💳 **Your plans, not credit**: runs on Claude Pro/Max and ChatGPT Plus/Pro through the official CLIs
+- 🎨 **Made with care**: animated chat themes, split view, voice mode and a pixel mascot named Nexi
+
+[![Latest release](https://img.shields.io/github/v/release/CrushedDEV/nexo-releases?label=latest&color=c4552d&style=flat-square)](https://github.com/CrushedDEV/nexo-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/CrushedDEV/nexo-releases/total?color=12805b&style=flat-square)](https://github.com/CrushedDEV/nexo-releases/releases)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**[⬇ Download for Windows](https://github.com/CrushedDEV/nexo-releases/releases/latest)** · [See it in action](https://github.com/CrushedDEV/nexo-releases#-features)
+
+</td>
+<td width="38%" valign="top">
+
+<a href="https://github.com/CrushedDEV/nexo-releases"><img src="assets/nexo-compare.png" alt="Comparing Claude and ChatGPT in Nexo"></a>
+<a href="https://github.com/CrushedDEV/nexo-releases"><img src="assets/nexo-code.png" alt="Nexo Code mode with terminal and changes"></a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🧩 More projects
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/CrushedDEV/Beatfinder"><img src="assets/card-beatfinder.svg" alt="BeatFinder: publish, sell and manage beats with automatic audio analysis" width="100%"></a></td>
+<td width="50%"><a href="https://dropmixr.es"><img src="assets/card-dropmixr.svg" alt="DropMixr: share, exchange and download music mashups" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://beout.es"><img src="assets/card-beout.svg" alt="BeOut: club management for a VRChat community" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/CrushedDEV/Crusheed-Toolkit"><img src="assets/card-toolkit.svg" alt="Crusheed Toolkit: BPM and key analysis plus media conversion" width="100%"></a></td>
+</tr>
+</table>
+
+<br>
+
+## ⚡ Tech stack
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/crusheddev/tu-repo/main/assets/mi-foto.gif" alt="Oihan"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,astro,tailwind,html,css,electron&theme=dark" alt="JavaScript, TypeScript, Node.js, React, Astro, Tailwind, HTML, CSS, Electron"><br>
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,cs,unity,mysql,docker,git,vscode&theme=dark" alt="PHP, Laravel, Java, C#, Unity, MySQL, Docker, Git, VS Code">
 </p>
 
-<hr/>
+<br>
 
-<img align='right' src='https://octodex.github.com/images/spidertocat.png' width='25%'>
+## 🧑‍💻 About me
 
-{  
-* 👂 `My name is`: **Oihan Gomez**  
-* ⚡ `I'm`: **Web Developer & Aspiring Game Developer**  
-* 🌍 `Based in`: **Spain**  
-* 🌱 `Currently learning`: **Unity & Game Development**  
-* ❤️ `I love`: **Music & DJing**  
-* 💻 `Favorite languages`: **JavaScript, PHP, Java**
-  
-}
-<br/>
-<h2 align="center">🚀 Projects</h2>
-<p align="center">Take a look at my most outstanding projects.</p>
+```ts
+const oihan = {
+  basedIn: "Spain 🇪🇸",
+  building: ["Nexo", "DropMixr"],
+  focus: ["AI tools", "web platforms", "desktop apps"],
+  learning: "game development with Unity",
+  offline: "music & DJing 🎧",
+  askMeAbout: ["Claude & ChatGPT workflows", "Laravel", "audio analysis"],
+};
+```
 
-| <a href="https://github.com/crusheddev/BeatFinder" target="_blank">**BeatFinder**</a> | <a href="https://dropmixr.es/" target="_blank">**DropMixr**</a> | <a href="https://beout.es" target="_blank">**BeOut.es**</a> | <a href="https://github.com/CrushedDEV/Paypal-Integration-in-Laravel" target="_blank">**PayPal Integration (Laravel)**</a> |
-| :---: | :---: | :---: | :---: |
-<img align='center' src='https://github.com/CrushedDEV/Beatfinder/blob/main/logo-beatfinder.png' width="100px" height="100px"> | <img align='center' width="100px" src='https://raw.githubusercontent.com/CrushedDEV/CrushedDEV/refs/heads/main/dropmixr.png' height='100px'> | <img align='center' width="100px" src='https://raw.githubusercontent.com/CrushedDEV/CrushedDEV/refs/heads/main/captura.png' height='100px'> | <img align='center' width="100px" src='https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg' height='100px'> |
-| <p>Platform to publish, sell, and manage beats, with auto audio analysis and admin panel.</p> <a href="https://github.com/crusheddev/BeatFinder" target="_blank">`Repository`</a> | <p>A collaborative platform for DJs and producers to share, exchange, and download music mashups.</p> <a href="https://github.com/crusheddev/DropMixr" target="_blank">`Repository`</a> <a href="https://dropmixr.es/" target="_blank">`Website`</a> | <p>VRChat club management platform to organize events and community activities.</p> <a href="#" target="_blank">`Repository`</a> <a href="https://beout.es" target="_blank">`Website`</a> | <p>Laravel package to integrate PayPal payments using REST API, including orders, captures and sandbox support.</p> <a href="https://github.com/CrushedDEV/Paypal-Integration-in-Laravel" target="_blank">`Repository`</a> |
+<br>
 
-<br/>
-
-
-<h2 align="center">🌱 My Skills</h2>
-
-<h4 align="center">💻 Programming languages</h4>
-
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
-
-<h4 align="center">📚 Frameworks & Tools</h4>
-
-<p align="center">
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://unity.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi0NAXS7Rma2dHzzrucLevA1vB5grFg97N1w&s" width="36" height="36" alt="Unity" /></a>
-</p>
-
-<h2 align="center">📌 Pinned Repositories</h2>
-<p align="center">Take a look at my most outstanding repositories.</p>
+<div align="center">
+<img src="assets/nexi.png" width="40" alt=""><br>
+<sub>Thanks for stopping by. If Nexo saves you time, a ⭐ on <a href="https://github.com/CrushedDEV/nexo-releases">nexo-releases</a> helps a lot.</sub>
+</div>
